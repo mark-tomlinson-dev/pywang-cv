@@ -1,0 +1,1118 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "peiyi",
+    "displayName": "Pei Yi Wang",
+    "profession": "3D artist",
+    "location": "Melbourne",
+    "pronouns": "she/her",
+    "byline": "3D artist in Melbourne, she/her",
+    "website": "https://pywang.co",
+    "websiteURL": "https://pywang.co",
+    "about": "Hello!\n\nI'm a Melbourne-based 3D artist. I enjoy blending reality and imagination : )\n\nPrior to pursuing a career in the creative industry, I was a qualitative researcher and taught undergraduate business subjects at Swinburne University of Technology.",
+    "status": {
+      "text": "As a rule of thumb, just when you think you're done, you're actually about five iterations away.",
+      "emoji": "😐️",
+      "timestamp": "2024-10-13T22:33:56.776Z"
+    },
+    "sectionOrder": null
+  },
+  "projects": [
+    {
+      "id": "TeTjrrkK5qPYFGdhyjlj",
+      "year": "2024",
+      "heading": "Mix & Mesh Creative 3D Studio",
+      "url": "https://read.cv/peiyi/mix-n-mesh",
+      "collaborators": [],
+      "description": "Branding for Mix & Mesh (this was one of the retro quirky tech concepts I had in mind).\n\nWith a background in marketing and a passion for 3D modelling, I saw an opportunity to help businesses engage their audiences by using 3D visuals to effectively showcase their products. I hope to work on innovative projects and create unique solutions through meaningful, long-term collaborations : )",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3800,
+          "height": 2400,
+          "url": "/content/media/Mix-and-Mesh-Creative-3D-Studio-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2945,
+          "height": 1762,
+          "url": "/content/media/Mix-and-Mesh-Creative-3D-Studio-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2945,
+          "height": 1762,
+          "url": "/content/media/Mix-and-Mesh-Creative-3D-Studio-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2945,
+          "height": 1762,
+          "url": "/content/media/Mix-and-Mesh-Creative-3D-Studio-4.png"
+        }
+      ],
+      "type": "project",
+      "title": "Mix & Mesh Creative 3D Studio",
+      "company": ""
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "ZphdlTJcovbcDxwMtnSX",
+      "year": "2024",
+      "heading": "Peiby Art Studio branding",
+      "url": "https://www.etsy.com/au/shop/PeibyArtStudio",
+      "collaborators": [],
+      "description": "I also run a side hustle selling art prints and postcards etc. (now available via my Etsy and in-store at Haiku Future in Camberwell, Victoria).",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2362,
+          "height": 2454,
+          "url": "/content/media/Peiby-Art-Studio-branding-1.png"
+        },
+        {
+          "type": "video",
+          "width": 1080,
+          "height": 1080,
+          "url": "/content/media/Peiby-Art-Studio-branding-2.mov"
+        },
+        {
+          "type": "image",
+          "width": 6296,
+          "height": 4222,
+          "url": "/content/media/Peiby-Art-Studio-branding-3.png"
+        },
+        {
+          "type": "image",
+          "width": 1181,
+          "height": 754,
+          "url": "/content/media/Peiby-Art-Studio-branding-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Peiby-Art-Studio-branding-5.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Peiby Art Studio branding",
+      "company": ""
+    },
+    {
+      "id": "pLh6Rmbkbna14Q5zRkK0",
+      "year": "2024",
+      "heading": "Cubes",
+      "url": null,
+      "collaborators": [],
+      "description": "I've decided that Blender's default cube needs some love. Instead of just deleting it, I wonder how many things I can actually create with it. And well, the possibilities are just endless! Currently I'm up to number 54...",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 2048,
+          "height": 1152,
+          "url": "/content/media/Cubes-1.mov"
+        },
+        {
+          "type": "image",
+          "width": 2560,
+          "height": 1440,
+          "url": "/content/media/Cubes-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Cubes-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Cubes-4.jpg"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Cubes",
+      "company": ""
+    },
+    {
+      "id": "VV10ntCfQeZbOvgiFnlo",
+      "year": "2024",
+      "heading": "Tales in Three Dimensions:  Tracing Chinese Migration in Australia",
+      "url": null,
+      "collaborators": [],
+      "description": "This is a creative endeavour aimed at revitalising historical records linked to early Chinese immigrants in Australia. By harnessing the power of digital media, this project aspires to reimagine the lived- experiences of Chinese settlers through a series of 3D visuals based on historical photographs and other archival materials.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-5.png"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-6.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Tales in Three Dimensions:  Tracing Chinese Migration in Australia",
+      "company": ""
+    },
+    {
+      "id": "uj3afUHrEJ5coqw6t7zW",
+      "year": "2023",
+      "heading": "Dreams",
+      "url": null,
+      "collaborators": [],
+      "description": "Digital Collages",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 768,
+          "height": 1112,
+          "url": "/content/media/Dreams-1.png"
+        },
+        {
+          "type": "image",
+          "width": 768,
+          "height": 1112,
+          "url": "/content/media/Dreams-2.png"
+        },
+        {
+          "type": "image",
+          "width": 768,
+          "height": 1112,
+          "url": "/content/media/Dreams-3.png"
+        },
+        {
+          "type": "image",
+          "width": 768,
+          "height": 1112,
+          "url": "/content/media/Dreams-4.png"
+        },
+        {
+          "type": "image",
+          "width": 768,
+          "height": 1112,
+          "url": "/content/media/Dreams-5.png"
+        },
+        {
+          "type": "image",
+          "width": 768,
+          "height": 1112,
+          "url": "/content/media/Dreams-6.png"
+        },
+        {
+          "type": "image",
+          "width": 768,
+          "height": 1112,
+          "url": "/content/media/Dreams-7.png"
+        },
+        {
+          "type": "image",
+          "width": 768,
+          "height": 1112,
+          "url": "/content/media/Dreams-8.png"
+        },
+        {
+          "type": "image",
+          "width": 768,
+          "height": 1112,
+          "url": "/content/media/Dreams-9.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Dreams",
+      "company": ""
+    },
+    {
+      "id": "7vRofMpkSFAp5LZZYFBW",
+      "year": "2022",
+      "heading": "The Gentle People",
+      "url": "https://www.instagram.com/the_gentlepeople/",
+      "collaborators": [],
+      "description": "A comic about gangster bromance.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 1280,
+          "url": "/content/media/The-Gentle-People.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "The Gentle People",
+      "company": ""
+    },
+    {
+      "id": "SgqB98Et1pJRbQsKmoO4",
+      "year": "2019",
+      "heading": "Cats and plants at home",
+      "url": null,
+      "collaborators": [],
+      "description": "Digital illustrations ",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 8750,
+          "height": 8750,
+          "url": "/content/media/Cats-and-plants-at-home-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 8750,
+          "height": 8750,
+          "url": "/content/media/Cats-and-plants-at-home-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 8750,
+          "height": 8750,
+          "url": "/content/media/Cats-and-plants-at-home-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 8750,
+          "height": 8750,
+          "url": "/content/media/Cats-and-plants-at-home-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 8750,
+          "height": 8750,
+          "url": "/content/media/Cats-and-plants-at-home-5.jpg"
+        },
+        {
+          "type": "image",
+          "width": 8750,
+          "height": 8750,
+          "url": "/content/media/Cats-and-plants-at-home-6.jpg"
+        },
+        {
+          "type": "image",
+          "width": 8750,
+          "height": 8750,
+          "url": "/content/media/Cats-and-plants-at-home-7.jpg"
+        },
+        {
+          "type": "image",
+          "width": 8750,
+          "height": 8750,
+          "url": "/content/media/Cats-and-plants-at-home-8.jpg"
+        },
+        {
+          "type": "image",
+          "width": 8750,
+          "height": 8750,
+          "url": "/content/media/Cats-and-plants-at-home-9.jpg"
+        },
+        {
+          "type": "image",
+          "width": 8750,
+          "height": 8750,
+          "url": "/content/media/Cats-and-plants-at-home-10.jpg"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Cats and plants at home",
+      "company": ""
+    },
+    {
+      "id": "BSWxxc37jHCvPGP3FcCW",
+      "year": "2018",
+      "heading": "The Dumb Couple",
+      "url": "https://www.instagram.com/the_dumb_couple/",
+      "collaborators": [],
+      "description": "A slice of life comic about a dumb couple.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1076,
+          "height": 854,
+          "url": "/content/media/The-Dumb-Couple-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 814,
+          "height": 1074,
+          "url": "/content/media/The-Dumb-Couple-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1668,
+          "height": 2224,
+          "url": "/content/media/The-Dumb-Couple-3.jpg"
+        }
+      ],
+      "type": "sideProject",
+      "title": "The Dumb Couple",
+      "company": ""
+    }
+  ],
+  "exhibitions": [
+    {
+      "id": "FNBhkw0tNDknHNZGE69l",
+      "year": "2024",
+      "heading": "Kawaii Melancholy at Haiku Melbourne",
+      "url": "https://www.etsy.com/au/shop/PeibyArtStudio",
+      "collaborators": [],
+      "description": "The Kawaii Melancholy collection explores the delicate balance between playful, colourful imagery and the underlying currents of wistfulness and nostalgia.\n\nPostcards and stickers from the Kawaii Melancholy collection are available at Haiku Future and via my Etsy store.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 1350,
+          "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 1350,
+          "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 1350,
+          "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 1350,
+          "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-4.jpg"
+        },
+        {
+          "type": "video",
+          "width": 1600,
+          "height": 2000,
+          "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-5.mp4"
+        },
+        {
+          "type": "image",
+          "width": 1600,
+          "height": 2000,
+          "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-6.png"
+        },
+        {
+          "type": "image",
+          "width": 1600,
+          "height": 2000,
+          "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-7.png"
+        },
+        {
+          "type": "image",
+          "width": 1600,
+          "height": 2000,
+          "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-8.png"
+        },
+        {
+          "type": "image",
+          "width": 1600,
+          "height": 2000,
+          "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-9.png"
+        }
+      ],
+      "type": "exhibition",
+      "title": "Kawaii Melancholy",
+      "venue": "Haiku Melbourne",
+      "location": "Camberwell, Victoria, Australia"
+    },
+    {
+      "id": "Nqw6wI07c6fykx1xaimw",
+      "year": "2024",
+      "heading": "Climb, Fly, Crawl at The Old Auction House",
+      "url": null,
+      "collaborators": [],
+      "description": "Duman Takes the Plunge\n\nWatercolour on acid-free cotton paper\n\nDuring the pandemic, I welcomed a furry feline companion into my life, and it has been nothing short of transformative. For the past three years, I've risen at the crack of dawn every morning to ensure my beloved cat, Duman, is well-fed – bidding farewell to those precious hours of sleep! This enduring bond has significantly influenced my artwork, which now revolves around the world of cats. While cats possess an innate ability to swim, they typically steer clear of water like it's their arch-nemesis. My own feline friend is no exception. However, I had a lot of fun envisioning Duman as a graceful swimmer, defying her natural instincts. The resulting playful piece, 'Duman Takes the Plunge,' draws inspiration from the iconic work 'The Green Cap' (1985) by Alex Katz.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 1080,
+          "url": "/content/media/Climb-Fly-Crawl-at-The-Old-Auction-House.jpg"
+        }
+      ],
+      "type": "exhibition",
+      "title": "Climb, Fly, Crawl",
+      "venue": "The Old Auction House",
+      "location": "Kyneton, Victoria, Australia"
+    },
+    {
+      "id": "cTRijI8PIpJRzIf9z9w8",
+      "year": "2017",
+      "heading": "Entangled at TACIT ART",
+      "url": "https://www.tacitart.com.au/pages/exhibition-archive-2017",
+      "collaborators": [],
+      "description": "Solo exhibition featuring my sumi (Japanese ink) work.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2282,
+          "height": 1960,
+          "url": "/content/media/Entangled-at-TACIT-ART.png"
+        }
+      ],
+      "type": "exhibition",
+      "title": "Entangled",
+      "venue": "TACIT ART",
+      "location": ""
+    }
+  ],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "vyuWHr1CMpCH5ZqyW7xJ",
+      "year": "2013 — 2018",
+      "heading": "PhD. Business at Swinburne University of Technology",
+      "url": null,
+      "collaborators": [],
+      "description": "Doctoral Thesis Title: Exploring the use of social media to mobilise pseudo-bystanders to support victims of corruption",
+      "attachments": [],
+      "type": "education",
+      "degree": "PhD. Business",
+      "school": "Swinburne University of Technology",
+      "location": ""
+    },
+    {
+      "id": "05VHyF2tXmkXGqStB821",
+      "year": "2012 — 2012",
+      "heading": "Bachelor of Commerce (Honours) at Swinburne University of Technology",
+      "url": null,
+      "collaborators": [],
+      "description": "Minor Thesis Title: Prospective Australian-Japanese Coordination in Aid Development Projects and Beyond: An Exploratory Study of Public-Private Partnerships in Vietnam",
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor of Commerce (Honours)",
+      "school": "Swinburne University of Technology",
+      "location": ""
+    },
+    {
+      "id": "751cOPqEHiLmyibUsQly",
+      "year": "2003 — 2008",
+      "heading": "Bachelor of Business/Arts (Japanese) at Swinburne University of Technology",
+      "url": null,
+      "collaborators": [],
+      "description": "Exchange student at Yamaguchi University in 2004",
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor of Business/Arts (Japanese)",
+      "school": "Swinburne University of Technology",
+      "location": ""
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "KoDSc07YIdjsqfFnDd0a",
+      "platform": "Website",
+      "handle": "pywang.co",
+      "url": "http://pywang.co"
+    },
+    {
+      "id": "PeYHcV1PLpJnqkArhnLq",
+      "platform": "LinkedIn",
+      "handle": "pei-yi-wang",
+      "url": "https://linkedin.com/in/pei-yi-wang"
+    },
+    {
+      "id": "rgxuWyKuiq07PD4m7QQq",
+      "platform": "Instagram",
+      "handle": "peiyiwang2022",
+      "url": "https://instagram.com/peiyiwang2022"
+    },
+    {
+      "id": "GRghNoGHqUcu0YDPCASr",
+      "platform": "Email",
+      "handle": "info@mixnmesh.com",
+      "url": "mailto:info@mixnmesh.com"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "TeTjrrkK5qPYFGdhyjlj",
+          "year": "2024",
+          "heading": "Mix & Mesh Creative 3D Studio",
+          "url": "mix-n-mesh",
+          "collaborators": [],
+          "description": "Branding for Mix & Mesh (this was one of the retro quirky tech concepts I had in mind).\n\nWith a background in marketing and a passion for 3D modelling, I saw an opportunity to help businesses engage their audiences by using 3D visuals to effectively showcase their products. I hope to work on innovative projects and create unique solutions through meaningful, long-term collaborations : )",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3800,
+              "height": 2400,
+              "url": "/content/media/Mix-and-Mesh-Creative-3D-Studio-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2945,
+              "height": 1762,
+              "url": "/content/media/Mix-and-Mesh-Creative-3D-Studio-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2945,
+              "height": 1762,
+              "url": "/content/media/Mix-and-Mesh-Creative-3D-Studio-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2945,
+              "height": 1762,
+              "url": "/content/media/Mix-and-Mesh-Creative-3D-Studio-4.png"
+            }
+          ],
+          "type": "project",
+          "title": "Mix & Mesh Creative 3D Studio",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "ZphdlTJcovbcDxwMtnSX",
+          "year": "2024",
+          "heading": "Peiby Art Studio branding",
+          "url": "https://www.etsy.com/au/shop/PeibyArtStudio",
+          "collaborators": [],
+          "description": "I also run a side hustle selling art prints and postcards etc. (now available via my Etsy and in-store at Haiku Future in Camberwell, Victoria).",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2362,
+              "height": 2454,
+              "url": "/content/media/Peiby-Art-Studio-branding-1.png"
+            },
+            {
+              "type": "video",
+              "width": 1080,
+              "height": 1080,
+              "url": "/content/media/Peiby-Art-Studio-branding-2.mov"
+            },
+            {
+              "type": "image",
+              "width": 6296,
+              "height": 4222,
+              "url": "/content/media/Peiby-Art-Studio-branding-3.png"
+            },
+            {
+              "type": "image",
+              "width": 1181,
+              "height": 754,
+              "url": "/content/media/Peiby-Art-Studio-branding-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Peiby-Art-Studio-branding-5.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Peiby Art Studio branding",
+          "company": ""
+        },
+        {
+          "id": "pLh6Rmbkbna14Q5zRkK0",
+          "year": "2024",
+          "heading": "Cubes",
+          "url": null,
+          "collaborators": [],
+          "description": "I've decided that Blender's default cube needs some love. Instead of just deleting it, I wonder how many things I can actually create with it. And well, the possibilities are just endless! Currently I'm up to number 54...",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 2048,
+              "height": 1152,
+              "url": "/content/media/Cubes-1.mov"
+            },
+            {
+              "type": "image",
+              "width": 2560,
+              "height": 1440,
+              "url": "/content/media/Cubes-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Cubes-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Cubes-4.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Cubes",
+          "company": ""
+        },
+        {
+          "id": "VV10ntCfQeZbOvgiFnlo",
+          "year": "2024",
+          "heading": "Tales in Three Dimensions:  Tracing Chinese Migration in Australia",
+          "url": null,
+          "collaborators": [],
+          "description": "This is a creative endeavour aimed at revitalising historical records linked to early Chinese immigrants in Australia. By harnessing the power of digital media, this project aspires to reimagine the lived- experiences of Chinese settlers through a series of 3D visuals based on historical photographs and other archival materials.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-4.png"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-5.png"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Tales-in-Three-Dimensions-Tracing-Chinese-Migration-in-Australia-6.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Tales in Three Dimensions:  Tracing Chinese Migration in Australia",
+          "company": ""
+        },
+        {
+          "id": "uj3afUHrEJ5coqw6t7zW",
+          "year": "2023",
+          "heading": "Dreams",
+          "url": null,
+          "collaborators": [],
+          "description": "Digital Collages",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 768,
+              "height": 1112,
+              "url": "/content/media/Dreams-1.png"
+            },
+            {
+              "type": "image",
+              "width": 768,
+              "height": 1112,
+              "url": "/content/media/Dreams-2.png"
+            },
+            {
+              "type": "image",
+              "width": 768,
+              "height": 1112,
+              "url": "/content/media/Dreams-3.png"
+            },
+            {
+              "type": "image",
+              "width": 768,
+              "height": 1112,
+              "url": "/content/media/Dreams-4.png"
+            },
+            {
+              "type": "image",
+              "width": 768,
+              "height": 1112,
+              "url": "/content/media/Dreams-5.png"
+            },
+            {
+              "type": "image",
+              "width": 768,
+              "height": 1112,
+              "url": "/content/media/Dreams-6.png"
+            },
+            {
+              "type": "image",
+              "width": 768,
+              "height": 1112,
+              "url": "/content/media/Dreams-7.png"
+            },
+            {
+              "type": "image",
+              "width": 768,
+              "height": 1112,
+              "url": "/content/media/Dreams-8.png"
+            },
+            {
+              "type": "image",
+              "width": 768,
+              "height": 1112,
+              "url": "/content/media/Dreams-9.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Dreams",
+          "company": ""
+        },
+        {
+          "id": "7vRofMpkSFAp5LZZYFBW",
+          "year": "2022",
+          "heading": "The Gentle People",
+          "url": "https://www.instagram.com/the_gentlepeople/",
+          "collaborators": [],
+          "description": "A comic about gangster bromance.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 1280,
+              "url": "/content/media/The-Gentle-People.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "The Gentle People",
+          "company": ""
+        },
+        {
+          "id": "SgqB98Et1pJRbQsKmoO4",
+          "year": "2019",
+          "heading": "Cats and plants at home",
+          "url": null,
+          "collaborators": [],
+          "description": "Digital illustrations ",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 8750,
+              "height": 8750,
+              "url": "/content/media/Cats-and-plants-at-home-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 8750,
+              "height": 8750,
+              "url": "/content/media/Cats-and-plants-at-home-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 8750,
+              "height": 8750,
+              "url": "/content/media/Cats-and-plants-at-home-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 8750,
+              "height": 8750,
+              "url": "/content/media/Cats-and-plants-at-home-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 8750,
+              "height": 8750,
+              "url": "/content/media/Cats-and-plants-at-home-5.jpg"
+            },
+            {
+              "type": "image",
+              "width": 8750,
+              "height": 8750,
+              "url": "/content/media/Cats-and-plants-at-home-6.jpg"
+            },
+            {
+              "type": "image",
+              "width": 8750,
+              "height": 8750,
+              "url": "/content/media/Cats-and-plants-at-home-7.jpg"
+            },
+            {
+              "type": "image",
+              "width": 8750,
+              "height": 8750,
+              "url": "/content/media/Cats-and-plants-at-home-8.jpg"
+            },
+            {
+              "type": "image",
+              "width": 8750,
+              "height": 8750,
+              "url": "/content/media/Cats-and-plants-at-home-9.jpg"
+            },
+            {
+              "type": "image",
+              "width": 8750,
+              "height": 8750,
+              "url": "/content/media/Cats-and-plants-at-home-10.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Cats and plants at home",
+          "company": ""
+        },
+        {
+          "id": "BSWxxc37jHCvPGP3FcCW",
+          "year": "2018",
+          "heading": "The Dumb Couple",
+          "url": "https://www.instagram.com/the_dumb_couple/",
+          "collaborators": [],
+          "description": "A slice of life comic about a dumb couple.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1076,
+              "height": 854,
+              "url": "/content/media/The-Dumb-Couple-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 814,
+              "height": 1074,
+              "url": "/content/media/The-Dumb-Couple-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1668,
+              "height": 2224,
+              "url": "/content/media/The-Dumb-Couple-3.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "The Dumb Couple",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Exhibitions",
+      "items": [
+        {
+          "id": "FNBhkw0tNDknHNZGE69l",
+          "year": "2024",
+          "heading": "Kawaii Melancholy at Haiku Melbourne",
+          "url": "https://www.etsy.com/au/shop/PeibyArtStudio",
+          "collaborators": [],
+          "description": "The Kawaii Melancholy collection explores the delicate balance between playful, colourful imagery and the underlying currents of wistfulness and nostalgia.\n\nPostcards and stickers from the Kawaii Melancholy collection are available at Haiku Future and via my Etsy store.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 1350,
+              "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 1350,
+              "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 1350,
+              "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 1350,
+              "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-4.jpg"
+            },
+            {
+              "type": "video",
+              "width": 1600,
+              "height": 2000,
+              "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-5.mp4"
+            },
+            {
+              "type": "image",
+              "width": 1600,
+              "height": 2000,
+              "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-6.png"
+            },
+            {
+              "type": "image",
+              "width": 1600,
+              "height": 2000,
+              "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-7.png"
+            },
+            {
+              "type": "image",
+              "width": 1600,
+              "height": 2000,
+              "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-8.png"
+            },
+            {
+              "type": "image",
+              "width": 1600,
+              "height": 2000,
+              "url": "/content/media/Kawaii-Melancholy-at-Haiku-Melbourne-9.png"
+            }
+          ],
+          "type": "exhibition",
+          "title": "Kawaii Melancholy",
+          "venue": "Haiku Melbourne",
+          "location": "Camberwell, Victoria, Australia"
+        },
+        {
+          "id": "Nqw6wI07c6fykx1xaimw",
+          "year": "2024",
+          "heading": "Climb, Fly, Crawl at The Old Auction House",
+          "url": null,
+          "collaborators": [],
+          "description": "Duman Takes the Plunge\n\nWatercolour on acid-free cotton paper\n\nDuring the pandemic, I welcomed a furry feline companion into my life, and it has been nothing short of transformative. For the past three years, I've risen at the crack of dawn every morning to ensure my beloved cat, Duman, is well-fed – bidding farewell to those precious hours of sleep! This enduring bond has significantly influenced my artwork, which now revolves around the world of cats. While cats possess an innate ability to swim, they typically steer clear of water like it's their arch-nemesis. My own feline friend is no exception. However, I had a lot of fun envisioning Duman as a graceful swimmer, defying her natural instincts. The resulting playful piece, 'Duman Takes the Plunge,' draws inspiration from the iconic work 'The Green Cap' (1985) by Alex Katz.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 1080,
+              "url": "/content/media/Climb-Fly-Crawl-at-The-Old-Auction-House.jpg"
+            }
+          ],
+          "type": "exhibition",
+          "title": "Climb, Fly, Crawl",
+          "venue": "The Old Auction House",
+          "location": "Kyneton, Victoria, Australia"
+        },
+        {
+          "id": "cTRijI8PIpJRzIf9z9w8",
+          "year": "2017",
+          "heading": "Entangled at TACIT ART",
+          "url": "https://www.tacitart.com.au/pages/exhibition-archive-2017",
+          "collaborators": [],
+          "description": "Solo exhibition featuring my sumi (Japanese ink) work.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2282,
+              "height": 1960,
+              "url": "/content/media/Entangled-at-TACIT-ART.png"
+            }
+          ],
+          "type": "exhibition",
+          "title": "Entangled",
+          "venue": "TACIT ART",
+          "location": ""
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "vyuWHr1CMpCH5ZqyW7xJ",
+          "year": "2013 — 2018",
+          "heading": "PhD. Business at Swinburne University of Technology",
+          "url": null,
+          "collaborators": [],
+          "description": "Doctoral Thesis Title: Exploring the use of social media to mobilise pseudo-bystanders to support victims of corruption",
+          "attachments": [],
+          "type": "education",
+          "degree": "PhD. Business",
+          "school": "Swinburne University of Technology",
+          "location": ""
+        },
+        {
+          "id": "05VHyF2tXmkXGqStB821",
+          "year": "2012 — 2012",
+          "heading": "Bachelor of Commerce (Honours) at Swinburne University of Technology",
+          "url": null,
+          "collaborators": [],
+          "description": "Minor Thesis Title: Prospective Australian-Japanese Coordination in Aid Development Projects and Beyond: An Exploratory Study of Public-Private Partnerships in Vietnam",
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor of Commerce (Honours)",
+          "school": "Swinburne University of Technology",
+          "location": ""
+        },
+        {
+          "id": "751cOPqEHiLmyibUsQly",
+          "year": "2003 — 2008",
+          "heading": "Bachelor of Business/Arts (Japanese) at Swinburne University of Technology",
+          "url": null,
+          "collaborators": [],
+          "description": "Exchange student at Yamaguchi University in 2004",
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor of Business/Arts (Japanese)",
+          "school": "Swinburne University of Technology",
+          "location": ""
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "KoDSc07YIdjsqfFnDd0a",
+          "platform": "Website",
+          "handle": "pywang.co",
+          "url": "http://pywang.co"
+        },
+        {
+          "id": "PeYHcV1PLpJnqkArhnLq",
+          "platform": "LinkedIn",
+          "handle": "pei-yi-wang",
+          "url": "https://linkedin.com/in/pei-yi-wang"
+        },
+        {
+          "id": "rgxuWyKuiq07PD4m7QQq",
+          "platform": "Instagram",
+          "handle": "peiyiwang2022",
+          "url": "https://instagram.com/peiyiwang2022"
+        },
+        {
+          "id": "GRghNoGHqUcu0YDPCASr",
+          "platform": "Email",
+          "handle": "info@mixnmesh.com",
+          "url": "mailto:info@mixnmesh.com"
+        }
+      ]
+    }
+  ]
+}
